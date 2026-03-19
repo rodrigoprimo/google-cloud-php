@@ -34,3 +34,5 @@ class OperationsClient extends OperationsGapicClient
 }
 
 class_alias('Google\LongRunning\OperationsClient', 'Google\ApiCore\LongRunning\OperationsClient');
+
+class_alias('Google\LongRunning\OperationsClient', 'Google\ApiCore\LongRunning\OperationsClient');
